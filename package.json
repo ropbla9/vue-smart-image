@@ -1,0 +1,22 @@
+{
+  "name": "vue-smart-image",
+  "version": "1.0.0",
+  "description": "Vue.js image component that fits every size in everywhere.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "vue.js",
+    "vue",
+    "2",
+    "vue",
+    "2.0",
+    "image",
+    "vue",
+    "component"
+  ],
+  "author": "Rodolfo Paranhos",
+  "license": "ISC"
+}
